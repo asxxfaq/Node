@@ -17,3 +17,11 @@ Reusable block of code is modules
     rs.rmdir(remove folder)
 
 2> 
+
+
+
+URL
+
+
+events
+allows custom creations

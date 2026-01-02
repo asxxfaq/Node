@@ -1,5 +1,9 @@
 function add(a,b) {
-    console.log(a+b);
+    console.log("Addition: ",a+b);
     
 }
-module.exports = add
+function sub(a,b) {
+    console.log("Substraction:",a-b);
+    
+}
+module.exports = {add,sub}
