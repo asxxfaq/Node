@@ -25,3 +25,11 @@ URL
 
 events
 allows custom creations
+
+
+third party modules 
+these are external packages that you install using npm (node package manager)
+express-express frame work
+mongoose - mongoDB ODM
+axios - HTTP request
+npm install express
